@@ -1,4 +1,9 @@
-# Projeto XPeriência – Testes Sprint 4
+<div align="center"> 
+
+   # Projeto XPeriência – Testes Sprint 4
+
+</div>
+
 
 Bem-vindo ao repositório do projeto XPeriência. Aqui estão documentados os testes manuais e de automação realizados para a Sprint 4.
 
@@ -9,7 +14,11 @@ Bem-vindo ao repositório do projeto XPeriência. Aqui estão documentados os te
 
 ---
 
-## Parte A – Testes Manuais (Azure Boards)
+<div align="center"> 
+   
+   ## Parte A – Testes Manuais (Azure Boards)
+   
+</div>
 
 > **Link de acesso ao Azure Boards:** [Clique aqui para acessar](https://dev.azure.com/XPeriencia/Challenge%20-%20XPeriencia/_workitems/recentlyupdated/)
 
@@ -57,7 +66,11 @@ Os testes manuais foram planejados e registrados no **Azure Boards**. Cada Test 
 
 ---
 
-## Parte B – Testes Automatizados (Selenium IDE)
+<div align="center">
+   
+   ## Parte B – Testes Automatizados (Selenium IDE)
+
+</div>
 
 Para validar o fluxo principal do aplicativo, foram gravados **4 testes automatizados** utilizando o **Selenium IDE**, com a funcionalidade Record & Playback:
 
@@ -69,14 +82,19 @@ Para validar o fluxo principal do aplicativo, foram gravados **4 testes automati
 
 **Todos os vídeos estão hospedados neste repositório, na pasta `Evidencias`.**
 
-**É possível acessar os vídeos no Youtube, no formato shorts. Links:**
-> **Link do Cadastro de Usuário:** [Clique aqui para acessar o vídeo](https://youtube.com/shorts/rTB4TmZ6qR8?feature=share)
+## Links Youtube
 
-> **Link do Login de Usuário:** [Clique aqui para acessar o vídeo](https://youtube.com/shorts/Ks_oTIXFhWs?feature=share)
+**Também é possível acessar os vídeos no Youtube, no formato shorts.**
 
-> **Link de Acesso aos Cursos:** [Clique aqui para acessar o vídeo](https://youtube.com/shorts/j0otPxC6dAs?feature=share)
+**Links:**
 
-> **Link de Acesso ao Suporte:** [Clique aqui para acessar o vídeo](https://youtube.com/shorts/ynmf-5tCdvg?feature=share)
+> **Link do Cadastro de Usuário:** [Clique aqui para acessar o vídeo - CADASTRO](https://youtube.com/shorts/rTB4TmZ6qR8?feature=share)
+
+> **Link do Login de Usuário:** [Clique aqui para acessar o vídeo - LOGIN](https://youtube.com/shorts/Ks_oTIXFhWs?feature=share)
+
+> **Link de Acesso aos Cursos:** [Clique aqui para acessar o vídeo - CURSOS](https://youtube.com/shorts/j0otPxC6dAs?feature=share)
+
+> **Link de Acesso ao Suporte:** [Clique aqui para acessar o vídeo - SUPORTE](https://youtube.com/shorts/ynmf-5tCdvg?feature=share)
 ---
 
 ## Observações
