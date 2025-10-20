@@ -67,8 +67,16 @@ Para validar o fluxo principal do aplicativo, foram gravados **4 testes automati
 3. **TA03 – Acesso aos Cursos Gratuitos** 
 4. **TA04 – Tela de Suporte** 
 
-> Todos os vídeos estão hospedados neste repositório, na pasta `Evidencias`.
+**Todos os vídeos estão hospedados neste repositório, na pasta `Evidencias`.**
 
+**É possível acessar os vídeos no Youtube, no formato shorts. Links:**
+> **Link do Cadastro de Usuário:** [Clique aqui para acessar o vídeo](https://youtube.com/shorts/rTB4TmZ6qR8?feature=share)
+
+> **Link do Login de Usuário:** [Clique aqui para acessar o vídeo](https://youtube.com/shorts/Ks_oTIXFhWs?feature=share)
+
+> **Link de Acesso aos Cursos:** [Clique aqui para acessar o vídeo](https://youtube.com/shorts/j0otPxC6dAs?feature=share)
+
+> **Link de Acesso ao Suporte:** [Clique aqui para acessar o vídeo](https://youtube.com/shorts/ynmf-5tCdvg?feature=share)
 ---
 
 ## Observações
